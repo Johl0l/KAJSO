@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+* {
+    border: solid;
+}
+
+.header{
+    background-color: darkorange;
+    display: flex;
+    justify-content: space-between;
+}
